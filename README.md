@@ -7,5 +7,5 @@ A running man game
 ## Status
 On development
 
-######### DEADLINE
+###### DEADLINE
 5/25/2015
